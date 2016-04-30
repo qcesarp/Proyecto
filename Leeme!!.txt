@@ -1,0 +1,2 @@
+Esta aplicacion esta desarrollada en Android Studio 1.3.2
+La aplicacion consiste en mostrar una galeria de imagenes para seleccionar, y luego ser compartida en alguna otra aplicacion que lo permita. Tambien es posible añadir texto en el mensaje 
